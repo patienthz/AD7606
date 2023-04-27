@@ -1,0 +1,7 @@
+../Core/Src/AD7606.c:6:6:AD7606_SETOS	16	static
+../Core/Src/AD7606.c:52:6:Delay	16	static
+../Core/Src/AD7606.c:60:6:AD7606_RESET	8	static
+../Core/Src/AD7606.c:70:10:ad7606_ReadBytes	16	static
+../Core/Src/AD7606.c:86:6:AD7606_STARTCONV	8	static
+../Core/Src/AD7606.c:96:6:AD7606_Init	16	static
+../Core/Src/AD7606.c:104:6:AD7606_RANGE10	80	static
