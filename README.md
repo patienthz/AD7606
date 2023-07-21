@@ -6,9 +6,8 @@
 外置基准源2.5v，200 kSPS，一般用于直流或几十HZ的信号  
 （更多详情见AD7606芯片手册和模块用户手册）  
 ## 三.主要引脚配制:
-DB7(DoutA)-->PA6  
-DB8(DoutB)-->PA7  
-FRST(FASTDATA)-->PA10  
+DB7(DoutA)(GPIO_INPUT)-->PC9
+DB8(DoutB)(GPIO_INPUT)-->PA7   
 ST_A(CONVST A)-->PA11  
 ST_B(CONVST B)--> PA12 
 RST(RESET)-->PB8    
